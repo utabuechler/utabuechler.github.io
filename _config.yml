@@ -1,7 +1,7 @@
 name:               "Uta"
 description:        "Uta Büchler Website"
 
-url:                ""
+url:                "https://utabuechler.github.io/homepage"
 author:             "thinker3197"
 email:              "jhondoe@abc.com"
 gravatar_hash:      "de5c7e08016aeaa80d78eacbc33d60cc"
@@ -19,7 +19,7 @@ background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x22
 paginate:           5
 paginate_path:      "/page:num/"
 
-baseurl:            "https://utabuechler.github.io/homepage"
+baseurl:            ""
 permalink:          :year/:month/:day/:title/
 
 highlighter: rouge
