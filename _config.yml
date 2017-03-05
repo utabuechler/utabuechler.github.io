@@ -22,6 +22,7 @@ paginate_path:      "/page:num/"
 baseurl:            "https://utabuechler.github.io/homepage"
 permalink:          :year/:month/:day/:title/
 
+highlighter: rouge
 markdown:           kramdown
 
 nav:
