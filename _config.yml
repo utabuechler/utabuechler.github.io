@@ -24,10 +24,10 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  - name:           "About"
-    href:           "/about"
-  - name:           "Download"
-    href:           "/releases"
+  - name:           "Career"
+    href:           "/career"
+  - name:           "Publications"
+    href:           "/publications"
 
 sass:
   style:            :compressed
