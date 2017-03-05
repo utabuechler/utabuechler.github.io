@@ -11,7 +11,13 @@ layout: default
     </nav>
 </header>
 <div class="content">
-    {% if site.posts.size == 0 %}
+    <div class="post-list">
+    <h2 class="post-title">
+      <a>About Me</a>
+    </h2>
+    <p>Description about me</p>
+    </div>
+    <!-- {% if site.posts.size == 0 %}
     <h2>No post found</h2> {% else %} {% for post in paginator.posts %}
     <div class="post-list">
         <h2 class="post-title">
@@ -34,5 +40,5 @@ layout: default
       {% endif %}
     </div>
     {% endif %}
-  {% endif %}
+  {% endif %} -->
 </div>
