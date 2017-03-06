@@ -26,6 +26,8 @@ markdown:           kramdown
 nav:
   - name:           "Home"
     href:           "https://utabuechler.github.io/homepage"
+  - name:           "About Me"
+    href:           "/homepage/aboutme"
   - name:           "Career"
     href:           "/homepage/career"
   - name:           "Publications"
