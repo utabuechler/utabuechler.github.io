@@ -28,6 +28,8 @@ nav:
     href:           "/homepage/career"
   - name:           "Publications"
     href:           "/homepage/publications"
+  - name:           "About me"
+    href:           "{{ site.baseurl }}"
 
 sass:
   style:            :compressed
