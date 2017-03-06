@@ -24,8 +24,8 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  - name:           "About"
-    href:           "/homepage/about"
+  - name:           "Career"
+    href:           "/homepage/career"
   - name:           "Publications"
     href:           "/homepage/publications"
 
