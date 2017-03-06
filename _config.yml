@@ -18,7 +18,7 @@ background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x22
 paginate:           5
 paginate_path:      "/page:num/"
 
-baseurl:            ""
+baseurl:            "https://utabuechler.github.io/homepage"
 permalink:          /:year/:month/:day/:title/
 
 markdown:           kramdown
