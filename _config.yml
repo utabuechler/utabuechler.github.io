@@ -24,12 +24,12 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
+  - name:           "About me"
+    href:           "https://utabuechler.github.io/homepage"
   - name:           "Career"
     href:           "/homepage/career"
   - name:           "Publications"
     href:           "/homepage/publications"
-  - name:           "About me"
-    href:           "{{ site.baseurl }}"
 
 sass:
   style:            :compressed
