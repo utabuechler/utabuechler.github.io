@@ -24,7 +24,7 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  - name:           "About me"
+  - name:           "Home"
     href:           "https://utabuechler.github.io/homepage"
   - name:           "Career"
     href:           "/homepage/career"
