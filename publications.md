@@ -1,5 +1,5 @@
 ---
-title: Career
+title: Publications
 permalink: /publications/
 ---
 
