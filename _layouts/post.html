@@ -3,12 +3,7 @@ layout: default
 ---
 
 {% include header.html %}
-<header class="bloghead">
-    <nav class="bloghead-nav">
-        {% for nav in site.nav %}
-        <a href="{{ nav.href }}">{{ nav.name }}<span> &nbsp;/&nbsp; </span></a> {% endfor %}
-    </nav>
-</header>
+
 <div class="content post">
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-date">
