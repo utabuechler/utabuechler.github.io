@@ -27,7 +27,7 @@ nav:
   - name:           "Career"
     href:           "/homepage/career"
   - name:           "Publications"
-    href:           "/publications"
+    href:           "/homepage/publications"
 
 sass:
   style:            :compressed
