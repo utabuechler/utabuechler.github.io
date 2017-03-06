@@ -30,6 +30,8 @@ nav:
     href:           "/homepage/career"
   - name:           "Publications"
     href:           "/homepage/publications"
+  - name:           "Contact Me"
+    href:           "/homepage/contact"
 
 sass:
   style:            :compressed
