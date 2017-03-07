@@ -16,7 +16,7 @@ layout: default
     {% if site.posts.size == 0 %}
     No News {% else %} {% for post in paginator.posts %}
     <div class="post-list">
-        <h4><time>{{ post.date | date_to_string }}</time>:</h4>
+        <h4>{{ post.date | date_to_string }}:</h4>
         {% if post.description %}
         {{ post.description }}
         {% endif %}
