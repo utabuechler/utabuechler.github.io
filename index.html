@@ -18,11 +18,10 @@ layout: default
     <div class="post-list">
         <div class="post-date">
             <h3><time>{{ post.date | date_to_string }}</time></h3>
+            {% if post.description %}
+            <p>:{{ post.description }}</p>
+            {% endif %}
         </div>
-        :
-        {% if post.description %}
-        {{ post.description }}
-        {% endif %}
     </div>
     {% endfor %} {% if paginator.total_pages > 1 %}
     <div class="pages">
