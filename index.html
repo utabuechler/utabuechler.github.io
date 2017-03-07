@@ -17,11 +17,11 @@ layout: default
     No News {% else %} {% for post in paginator.posts %}
     <div class="post-list">
         <h4><time>{{ post.date | date_to_string }}</time></h4>
-        {% if post.description %}
+        <!--{% if post.description %}-->
         <p style="padding-left:10px">
             mööp{{ content }}
         </p>
-        {% endif %}
+        <!--{% endif %}-->
     </div>
     {% endfor %} {% if paginator.total_pages > 1 %}
     <div class="pages">
