@@ -18,7 +18,7 @@ permalink: /publications/
   <a type="button" href="https://hci.iwr.uni-heidelberg.de/sites/default/files/publications/files/471273262/antic_ommer_miccai15.pdf">
     <i class="fa fa-file-o"></i>
   </a>
-   <a type="button" href="https://scholar.googleusercontent.com/scholar.bib?q=info:XS6xrvMgTDgJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWL7Rt3TInGELNJRdn3KRHaJ4OP9U_WiT&scisf=4&ct=citation&cd=-1&hl=de">
+   <a type="button" href="{{ site.baseurl }}/bibtex/miccai15.md" target="_blank">
    <b>BibTex</b>
   </a>
 </div>
