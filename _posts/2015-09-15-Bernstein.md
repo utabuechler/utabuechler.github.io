@@ -2,4 +2,4 @@
 title:        "Bernstein"
 author:       "ubuechle"
 ---
-Accepted Poster/Oral at the <a href="http://www.nncn.de/de/bernstein-conference/past-conferences/2015">Bernstein Conference 2015</a>
+Accepted Abstract for <b>poster</b> session and <b>oral</b> presentation at the <a href="http://www.nncn.de/de/bernstein-conference/past-conferences/2015">Bernstein Conference (BCCN),2015</a>
