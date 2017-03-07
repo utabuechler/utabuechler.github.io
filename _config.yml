@@ -27,13 +27,13 @@ nav:
   - name:           "Home"
     href:           "https://utabuechler.github.io/homepage"
   - name:           "About Me"
-    href:           "https://utabuechler.github.io/homepage/aboutme"
+    href:           "homepage/aboutme"
   - name:           "Career"
-    href:           "https://utabuechler.github.io/homepage/career"
+    href:           "homepage/career"
   - name:           "Publications"
-    href:           "https://utabuechler.github.io/homepage/publications"
+    href:           "homepage/publications"
   - name:           "Contact"
-    href:           "https://utabuechler.github.io/homepage/contact"
+    href:           "homepage/contact"
 
 sass:
   style:            :compressed
