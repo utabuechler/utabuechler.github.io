@@ -430,10 +430,11 @@ tbody tr:nth-child(odd) th {
 
 .publication-list {
     h4 {
-        margin-after: 0px;
+        margin-bottom: 0px;
+        border-bottom: 1px solid black;
     }
     p {
-        border-bottom: 1px solid red;
+        border-bottom: 3px solid red;
         margin-after: 5px
     }
 }
