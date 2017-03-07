@@ -18,7 +18,7 @@ layout: default
     <div class="post-list">
         <h4><time>{{ post.date | date_to_string }}</time>:</h4>
         <p>{% if post.description %}
-        {{ post.description }}
+        Mööp{{ post.description }}
         {% endif %}</p>
     </div>
     {% endfor %} {% if paginator.total_pages > 1 %}
