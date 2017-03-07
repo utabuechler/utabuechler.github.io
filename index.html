@@ -11,15 +11,7 @@ layout: default
     </nav>
 </header>
 <div class="content">
-    <div class="post-list">
-    <h2 class="post-title">News</h2>
-    <p>Nothing new</p>
-    </div>
-    <div class="post-list">
-    <h2 class="post-title">Links</h2>
-    <p><a href="https://hci.iwr.uni-heidelberg.de/">Heidelberg Collaboratory of Image Processing</a>, <a href="https://hci.iwr.uni-heidelberg.de/compvis">Computer Vision group</a> </p>
-    </div>
-    <!-- {% if site.posts.size == 0 %}
+    {% if site.posts.size == 0 %}
     <h2>No post found</h2> {% else %} {% for post in paginator.posts %}
     <div class="post-list">
         <h2 class="post-title">
@@ -42,5 +34,5 @@ layout: default
       {% endif %}
     </div>
     {% endif %}
-  {% endif %} -->
+  {% endif %}
 </div>
