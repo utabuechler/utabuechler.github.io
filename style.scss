@@ -70,7 +70,6 @@ h2 {
 }
 
 h3 {
-    display: inline;
     font-size: 1.3rem;
 }
 
@@ -319,6 +318,7 @@ tbody tr:nth-child(odd) th {
         display: inline;
     }
     h3 {
+        display: inline;
         height: auto;
         margin-right: 4vw;
         margin-top: 10vw;
