@@ -417,8 +417,15 @@ tbody tr:nth-child(odd) th {
 }
 
 .post-list {
-    h2 {
-        margin-top: 1.3rem;
+    .post-title {
+        time {
+            height: auto;
+            margin-right: 4vw;
+            margin-top: 10vw;
+            width: 50%;
+            float: right;
+            color: #FFF;
+        }
     }
 }
 
