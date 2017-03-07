@@ -32,7 +32,7 @@ nav:
     href:           "/homepage/career"
   - name:           "Publications"
     href:           "/homepage/publications"
-  - name:           "Contact Me"
+  - name:           "Contact"
     href:           "/homepage/contact"
 
 sass:
