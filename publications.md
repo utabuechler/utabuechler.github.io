@@ -25,4 +25,7 @@ permalink: /publications/
   <p>B. Antic, U. Büchler, A.-S. Wahl, M. E. Schwab and B. Ommer<br />
   Bernstein Conference on Computational Neuroscience<br />
   BCCN 2015, Oral presentation</p>
+  <a type="button" href="https://hci.iwr.uni-heidelberg.de/sites/default/files/publications/files/471273262/antic_ommer_miccai15.pdf">
+    <i class="fa fa-github"></i>
+  </a>
 </div>
