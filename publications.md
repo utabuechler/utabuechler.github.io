@@ -16,7 +16,7 @@ permalink: /publications/
   International Conference on Medical Image Computing and Computer Assisted Interventions<br/>
   MICCAI 2015, Oral presentation</p>
   <a type="button" href="https://hci.iwr.uni-heidelberg.de/sites/default/files/publications/files/471273262/antic_ommer_miccai15.pdf">
-    <i class="fa fa-github"></i>
+    <i class="fa fa-file-pdf-o"></i>
   </a>
 </div>
 
