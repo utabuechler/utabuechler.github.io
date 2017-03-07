@@ -431,12 +431,13 @@ tbody tr:nth-child(odd) th {
 .publication-list {
     h4 {
         margin-bottom: 0px;
-        border-bottom: 1px solid black;
+        /*border-bottom: 1px solid black;*/
     }
     p {
-        border-bottom: 3px solid red;
+        /*border-bottom: 3px solid red;*/
         margin-after: 5px
     }
+    
 }
 .highlight .hll {
     background-color: #ffffcc
