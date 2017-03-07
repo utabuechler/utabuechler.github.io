@@ -18,12 +18,6 @@ layout: default
     <div class="post-list">
         <h4><time>{{ post.date | date_to_string }}</time></h4>
         <p style="padding-left:10px">{{ post.content }}</p>
-        <!--{% if post.description %}-->
-        <!--mööp
-        <p style="padding-left:10px">
-            mööp{{ post.content }}
-        </p>
-        <!--{% endif %}-->
     </div>
     {% endfor %} {% if paginator.total_pages > 1 %}
     <div class="pages">
