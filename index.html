@@ -16,10 +16,10 @@ layout: default
     {% if site.posts.size == 0 %}
     No News {% else %} {% for post in paginator.posts %}
     <div class="post-list">
-        <h3><time>{{ post.date | date_to_string }}</time>:Möpp</h3>
+        <p><h3><time>{{ post.date | date_to_string }}</time>:Möpp</h3>
         {% if post.description %}
         {{ post.description }}
-        {% endif %}
+        {% endif %}</p>
     </div>
     {% endfor %} {% if paginator.total_pages > 1 %}
     <div class="pages">
