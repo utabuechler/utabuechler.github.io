@@ -11,3 +11,8 @@ Berliner Str. 43 D-69120 Heidelberg<br /></p>
 <h5 style="margin-bottom: 0px;">E-Mail:</h5>
 <p>uta.buechler(at)iwr.uni-heidelberg.de</p>
 
+<h4>Privat</h4>
+<h5 style="margin-bottom: 0px;">E-Mail:</h5>
+<p>utabuechler(at)web.de</p>
+
+
