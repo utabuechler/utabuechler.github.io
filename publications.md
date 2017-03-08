@@ -5,7 +5,7 @@ permalink: /publications/
 
 <div class="publication-list">
   <h4>LSTM Self-Supervision for Detailed Behavior Analysis</h4>
-  <p>B. Brattoli*, U. Büchler*, A.-S. Wahl, M.E. Schwab and B. Ommer<br />
+  <p>B. Brattoli<sup><a href="#fn1" id="ref">*</a></sup>, U. Büchler, A.-S. Wahl, M.E. Schwab and B. Ommer<br />
   Conference on Computer Vision and Pattern Recognition<br />
   CVPR 2017</p>
 </div>
@@ -29,3 +29,7 @@ permalink: /publications/
   Bernstein Conference on Computational Neuroscience<br />
   BCCN 2015, Oral presentation</p>
 </div>
+
+<hr></hr>
+
+<sup id="fn1">1. [Text of footnote 1]</sup>
