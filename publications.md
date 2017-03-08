@@ -30,6 +30,6 @@ permalink: /publications/
   BCCN 2015, Oral presentation</p>
 </div>
 
-<hr></hr>
+<hr>
 
-<sup id="fn1">1. [Text of footnote 1]</sup>
+<sup id="fn1">*Indicates equal contribution</sup>
