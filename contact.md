@@ -3,4 +3,11 @@ title:        "Contact Information"
 permalink: /contact/
 ---
 
-My data
+<h4>Computer Vision Group</h4>
+<h5>Office:</h5>
+<p>Heidelberg Collaboratory for Image Processing<br />
+Universität Heidelberg<br />
+Berliner Str. 43 D-69120 Heidelberg<br /></p>
+<h5>E-Mail:</h5>
+<p>uta.buechler(at)iwr.uni-heidelberg.de</p>
+
