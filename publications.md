@@ -30,6 +30,25 @@ permalink: /publications/
   BCCN 2015, Oral presentation</p>
 </div>
 
-<hr>
+<div class="publication-list">
+  <h4>Evaluating Stroke Recovery by Structural Decomposition of Motor Kinematics</h4>
+  <p>B. Antic*, U. Büchler*, A.-S. Wahl, M. E. Schwab and B. Ommer<br />
+  Bernstein Conference on Computational Neuroscience<br />
+  BCCN 2015, Oral presentation</p>
+</div>
 
+<div class="publication-list">
+  <h4>Evaluating Stroke Recovery by Structural Decomposition of Motor Kinematics</h4>
+  <p>B. Antic*, U. Büchler*, A.-S. Wahl, M. E. Schwab and B. Ommer<br />
+  Bernstein Conference on Computational Neuroscience<br />
+  BCCN 2015, Oral presentation</p>
+</div>
+
+<div class="publication-list">
+  <h4>Evaluating Stroke Recovery by Structural Decomposition of Motor Kinematics</h4>
+  <p>B. Antic*, U. Büchler*, A.-S. Wahl, M. E. Schwab and B. Ommer<br />
+  Bernstein Conference on Computational Neuroscience<br />
+  BCCN 2015, Oral presentation</p>
+</div>
+<hr>
 <sup id="fn1">*Indicates equal contribution</sup>
