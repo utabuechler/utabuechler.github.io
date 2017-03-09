@@ -17,7 +17,7 @@ permalink: /career/
               <canvas id="{{ skills.id }}" height="500" width="500"></canvas>
           </div>
           <div class="col-lg-1"></div>
-          <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.1.6/Chart.bundle.min.js">
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.1.6/Chart.js">
           var ctx = document.getElementById("{{ skills.id }}");
           var data = {
               labels: "{{ skills.aspects }}".split(","),
