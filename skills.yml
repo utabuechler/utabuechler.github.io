@@ -1,0 +1,11 @@
+# skills section data
+
+- label: Topic
+  id : cs
+  aspects: Computer vision, Machine learning, Deep learning, Software engineer, Data science
+  percentage: 100, 80, 90, 50, 60
+
+- label: Languages
+  id : cs1
+  aspects: Python, Matlab, C++, Android, Java, R, PHP
+  percentage: 90, 90, 50, 40, 40, 20, 20
