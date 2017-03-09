@@ -4,14 +4,14 @@ permalink: /career/
 ---
 
 <div class="container">
-    <!--<div class="row">
+    <div class="row">
         <div class="col-lg-12 text-center" id="i18_skills">
             <div class="navy-line"></div>
             <h1><span data-i18n="skills.my_skills">Skills</span></h1>
         </div>
-    </div>-->
-    <h3>Skills</h3>
+    </div>
     <div class="row features-block">
+    <h1>{{ site }}</h1>
         {% for skills in site.skills %}
             {% assign loopindex = forloop.index | modulo: 2 %}
           <div class="wow zoomIn col-lg-5 col-lg-offset-1">
