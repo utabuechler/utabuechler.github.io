@@ -11,6 +11,25 @@ layout: default
     </nav>
 </header>
 <div class="content">
+    <br />
+    <h2 class="page-title">News</h2>
+    {% if site.posts.size == 0 %}
+    No News {% else %} {% for post in paginator.posts %}
+    <div class="post-list">
+        <h4><time>{{ post.date | date_to_string }}</time></h4>
+        {{ post.content }}
+    </div>
+    {% endfor %} {% if paginator.total_pages > 1 %}
+    <div class="pages">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><</a>
+      {% endif %}
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">></a>
+      {% endif %}
+    </div>
+    {% endif %}
+    {% endif %}
     <!-- Start of StatCounter Code for Default Guide -->
     <script type="text/javascript">
         var sc_project=11279819; 
@@ -30,24 +49,4 @@ layout: default
         </div>
     </noscript>
     <!-- End of StatCounter Code for Default Guide -->
-    <br />
-    <h2 class="page-title">News</h2>
-    {% if site.posts.size == 0 %}
-    No News {% else %} {% for post in paginator.posts %}
-    <div class="post-list">
-        <h4><time>{{ post.date | date_to_string }}</time></h4>
-        {{ post.content }}
-    </div>
-    {% endfor %} {% if paginator.total_pages > 1 %}
-    <div class="pages">
-      {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><</a>
-      {% endif %}
-
-      {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">></a>
-      {% endif %}
-    </div>
-    {% endif %}
-  {% endif %}
 </div>
