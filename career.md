@@ -4,23 +4,20 @@ permalink: /career/
 ---
 
 <div class="container">
-   <!-- <div class="row">
+    <div class="row">
         <div class="col-lg-12 text-center" id="i18_skills">
             <div class="navy-line"></div>
             <h1><span data-i18n="skills.my_skills">Skills</span></h1>
         </div>
-    </div>-->
+    </div>
     <div class="row features-block">
-        <!--{% for skills in "{{ site.baseurl }}/skills.yml" %}
-            <h1>{{ skills.id }}</h1>
-        {% endfor %}-->
         {% for skills in site.skills %}
             {% assign loopindex = forloop.index | modulo: 2 %}
           <div class="wow zoomIn col-lg-5 col-lg-offset-1">
               <canvas id="{{ skills.id }}" height="500" width="500"></canvas>
           </div>
           <div class="col-lg-1"></div>
-          <script type="text/javascript" src="{{ site.baseurl }}/Chart.bundle.min.js">
+          <script>
           var ctx = document.getElementById("{{ skills.id }}");
           var data = {
               labels: "{{ skills.aspects }}".split(","),
