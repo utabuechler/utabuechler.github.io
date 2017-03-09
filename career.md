@@ -4,12 +4,13 @@ permalink: /career/
 ---
 
 <div class="container">
-    <div class="row">
+    <script type="text/javascript" src="{{ site.baseurl }}/Chart.bundle.min.js"></script>
+   <!-- <div class="row">
         <div class="col-lg-12 text-center" id="i18_skills">
             <div class="navy-line"></div>
             <h1><span data-i18n="skills.my_skills">Skills</span></h1>
         </div>
-    </div>
+    </div>-->
     <div class="row features-block">
         {% for skills in site.skills %}
             {% assign loopindex = forloop.index | modulo: 2 %}
