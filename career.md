@@ -12,7 +12,7 @@ permalink: /career/
     </div>-->
     <div class="row features-block">
     {% for skills in site.skills %}
-    <h1> skills.href </h1>
+    <h1>{{ skills.href }}</h1>
     {% endfor %}
         <!--{% for skills in "{{ site.baseurl }}/skills.yml" %}
             <h1>{{ skills.id }}</h1>-->
