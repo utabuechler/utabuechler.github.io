@@ -26,8 +26,6 @@ markdown:           kramdown
 skills:
   - name: "Test"
     href: "/skills"
-  - name: "Test2"
-    href: "/skills"
 
 nav:
   - name:           "Home"
