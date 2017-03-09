@@ -23,19 +23,19 @@ permalink: /career/
               labels: "{{ skills.aspects }}".split(","),
               datasets: [{
                   label: "{{ skills.label }}",
-                  backgroundColor: "rgba(179,181,198,0.2)",
+                  <!--backgroundColor: "rgba(179,181,198,0.2)",
                   borderColor: "#3385FF",
                   pointBackgroundColor: "#3385FF",
                   pointBorderColor: "#fff",
                   pointHoverBackgroundColor: "#3385FF",
-                  pointHoverBorderColor: "#3385FF",
+                  pointHoverBorderColor: "#3385FF",-->
                   data: [{{ skills.percentage }}]
                   }]
           };
           var myRadarChart = new Chart(ctx, {
               type: 'radar',
               data: data,
-              options: {
+              <!--options: {
                   scale: {
                       responsive: true,
                       ticks: {min: 0, max: 100},
@@ -43,7 +43,7 @@ permalink: /career/
                       pointLabels: {fontSize: 14},
                   },
                   legend: {display: false},
-              }
+              }-->
           });
           </script>
       {% endfor %}
