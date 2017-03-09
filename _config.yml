@@ -24,8 +24,8 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 skills:
-  - name: "Test"
-    href: "/skills"
+  - name: "skills"
+    href: "/skills.yml"
 
 nav:
   - name:           "Home"
