@@ -23,9 +23,9 @@ permalink:          /:year/:month/:day/:title/
 
 markdown:           kramdown
 
-skill_icon1:
-    - name: icon-apache
-    - name: fa-linux
+skills:
+    name: "Test"
+    href: "/skills"
 
 nav:
   - name:           "Home"
