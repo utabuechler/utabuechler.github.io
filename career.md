@@ -11,7 +11,7 @@ permalink: /career/
         </div>
     </div>
     <div class="row features-block">
-    <h1>{{ site }}</h1>
+    <h1>{{ site.skills }}</h1>
         {% for skills in site.skills %}
             {% assign loopindex = forloop.index | modulo: 2 %}
           <div class="wow zoomIn col-lg-5 col-lg-offset-1">
