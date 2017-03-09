@@ -11,13 +11,10 @@ permalink: /career/
         </div>
     </div>-->
     <div class="row features-block">
-    {% for skills in site.skills %}
-    <h1>{{ skills.href }}</h1>
-    {% endfor %}
         <!--{% for skills in "{{ site.baseurl }}/skills.yml" %}
-            <h1>{{ skills.id }}</h1>-->
-        {% endfor %}
-        {% for skills in site.skills.href %}
+            <h1>{{ skills.id }}</h1>
+        {% endfor %}-->
+        {% for skills in site.skills %}
             {% assign loopindex = forloop.index | modulo: 2 %}
           <div class="wow zoomIn col-lg-5 col-lg-offset-1">
               <canvas id="{{ skills.id }}" height="500" width="500"></canvas>
