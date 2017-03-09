@@ -15,7 +15,7 @@ permalink: /publications/
   <p>B. Antic*, U. Büchler*, A.-S. Wahl, M. E. Schwab and B. Ommer<br />
   International Conference on Medical Image Computing and Computer Assisted Interventions<br/>
   MICCAI 2015, Oral presentation</p>
-  <a type="button" href="{{ site.baseurl}}/papers/antic_buechler_miccai15.pdf">
+  <a type="button" href="{{ site.baseurl}}/papers/antic_buechler_miccai15.pdf" target="_blank">
     <i class="fa fa-file-o"></i>
   </a>
   <a type="button" href="{{ site.baseurl }}/bibtex/antic_buechler_miccai15.md" target="_blank">
