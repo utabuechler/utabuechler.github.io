@@ -25,15 +25,15 @@ markdown:           kramdown
 
 nav:
   - name:           "Home"
-    href:           "./homepage"
+    href:           "/homepage"
   - name:           "About Me"
-    href:           "./aboutme"
+    href:           "/aboutme"
   - name:           "Career"
-    href:           "./career"
+    href:           "/career"
   - name:           "Publications"
-    href:           "./publications"
+    href:           "/publications"
   - name:           "Contact"
-    href:           "./contact"
+    href:           "/contact"
 
 sass:
   style:            :compressed
