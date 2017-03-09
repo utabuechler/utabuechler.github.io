@@ -1,7 +1,7 @@
 name:               "Uta Büchler"
 description:        "Ph.D. student in Computer Vision"
 
-url:                "https://utabuechler.github.io/homepage"
+url:                "https://utabuechler.github.io"
 author:             "utabuechler"
 email:              "utabuechler@web.de"
 #twitter:            "jhondoe"
@@ -18,22 +18,22 @@ background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x22
 paginate:           5
 paginate_path:      "/page:num/"
 
-baseurl:            "https://utabuechler.github.io/homepage"
+baseurl:            "https://utabuechler.github.io"
 permalink:          /:year/:month/:day/:title/
 
 markdown:           kramdown
 
 nav:
   - name:           "Home"
-    href:           "https://utabuechler.github.io/homepage"
+    href:           "./homepage"
   - name:           "About Me"
-    href:           "https://utabuechler.github.io/homepage/aboutme"
+    href:           "./aboutme"
   - name:           "Career"
-    href:           "https://utabuechler.github.io/homepage/career"
+    href:           "./career"
   - name:           "Publications"
-    href:           "https://utabuechler.github.io/homepage/publications"
+    href:           "./publications"
   - name:           "Contact"
-    href:           "https://utabuechler.github.io/homepage/contact"
+    href:           "./contact"
 
 sass:
   style:            :compressed
