@@ -5,7 +5,7 @@
       <h1>Skills</h1>
       {% for skills in site.skills %}
             {%assign loopindex = forloop.index | modulo: 2 %}
-            <canvas id="{{ skills.id }}" style="width:500px;height:500px;diplay:inline"></canvas>
+            <canvas id="{{ skills.id }}" style="width:50%;height:500px;diplay:inline"></canvas>
             <script>
                 var ctx = document.getElementById("{{ skills.id }}");
                 /*ctx.{{ skills.id }}.width = 300;
