@@ -30,8 +30,8 @@ skills:
     percentage: 90, 80, 80, 50, 60
   - label: Languages
     id : cs1
-    aspects: Python, Matlab, C++, Java, SPSS, HTML
-    percentage: 90, 90, 60, 50, 50, 50
+    aspects: Python, Matlab, C++, Java, SPSS, HTML, LaTex
+    percentage: 90, 90, 60, 50, 50, 50, 80
     
 nav:
   - name:           "Home"
