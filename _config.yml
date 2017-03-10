@@ -26,7 +26,7 @@ markdown:           kramdown
 skills:
   - label: Topic
     id : cs
-    aspects: Computer \n vision, Machine \n learning, Deep \n learning, Optimization, Teaching
+    aspects: [["Computer","vision"], ["Machine","learning"], ["Deep","learning"], ["Optimization"], ["Teaching"]]
     percentage: 90, 80, 80, 50, 60
   - label: Languages
     id : cs1
