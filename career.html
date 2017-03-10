@@ -7,7 +7,7 @@ permalink: /career/
 </head>
 {% for skills in site.skills %}
       {%assign loopindex = forloop.index | modulo: 2 %}
-      <canvas id="{{ skills.id }}" width="500" height="500"></canvas>
+      <canvas id="{{ skills.id }}" width="200" height="200"></canvas>
       <script>
             var ctx = document.getElementById("{{ skills.id }}");
           var data = {
@@ -38,63 +38,3 @@ permalink: /career/
           });
       </script>
 {% endfor %}
-            
-<!--<script>
-      var ctx = document.getElementById("myChart");
-      new Chart(ctx, {
-          type: 'bar',
-          data: {
-              labels: ["Group 1", "Group 2", "Group 3"],
-              datasets: [{
-                  label: 'Groups',
-                  data: [12, 19, 3]
-              }]
-          }
-      });
-</script>
-<div class="container">
-    <div class="row">
-        <div class="col-lg-12 text-center" id="i18_skills">
-            <div class="navy-line"></div>
-            <h1><span data-i18n="skills.my_skills">Skills</span></h1>
-        </div>
-    </div>
-    <div class="row features-block">
-        {% for skills in site.skills %}
-            {% assign loopindex = forloop.index | modulo: 2 %}
-          <div class="wow zoomIn col-lg-5 col-lg-offset-1">
-              <canvas id="{{ skills.id }}" height="500" width="500"></canvas>
-          </div>
-          <div class="col-lg-1"></div>
-          <script src="{{ site.baseurl }}/Chart.js">
-          var ctx = document.getElementById("{{ skills.id }}");
-          var data = {
-              labels: "{{ skills.aspects }}".split(","),
-              datasets: [{
-                  label: "{{ skills.label }}",
-                  backgroundColor: "rgba(179,181,198,0.2)",
-                  borderColor: "#3385FF",
-                  pointBackgroundColor: "#3385FF",
-                  pointBorderColor: "#fff",
-                  pointHoverBackgroundColor: "#3385FF",
-                  pointHoverBorderColor: "#3385FF",
-                  data: [{{ skills.percentage }}]
-                  }]
-          };
-          var myRadarChart = new Chart(ctx, {
-              type: 'radar',
-              data: data,
-              options: {
-                  scale: {
-                      responsive: true,
-                      ticks: {min: 0, max: 100},
-                      lineArc: false,
-                      pointLabels: {fontSize: 14},
-                  },
-                  legend: {display: false},
-              }
-          });
-          </script>
-      {% endfor %}
-  </div>
-</div>-->
