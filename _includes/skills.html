@@ -3,25 +3,21 @@
 </head>
 <body>
       <h1>Skills</h1>
-      {% for skills in site.skills %}
-            {%assign loopindex = forloop.index | modulo: 2 %}
-            <div class="smallerChart">
-            <canvas id="{{ skills.id }}"></canvas>
+      <div class="smallerChart">
+            <canvas id="Topic"></canvas>
             <script>
-                var ctx = document.getElementById("{{ skills.id }}");
-                /*ctx.{{ skills.id }}.width = 500;
-                ctx.{{ skills.id }}.height = 500;*/
+                var ctx = document.getElementById("Topic");
                 var data = {
-                    labels: [["Computer","vision"], ["Machine","learning"], ["Deep","learning"], ["Optimization"], ["Teaching"],["Test"]],
+                    labels: [["Computer","vision"], ["Machine","learning"], ["Deep","learning"], ["Optimization"], ["Teaching"]],
                     datasets: [{
-                        label: "{{ skills.label }}",
+                        label: "Topic",
                         backgroundColor: "rgba(179,181,198,0.2)",
                         borderColor: "#DE1937",
                         pointBackgroundColor: "#DE1937",
                         pointBorderColor: "#fff",
                         pointHoverBackgroundColor: "#DE1937",
                         pointHoverBorderColor: "#DE1937",
-                        data: [{{ skills.percentage }}]
+                        data: [90, 80, 80, 50, 60]
                         }]
                 };
                 var myRadarChart = new Chart(ctx, {
@@ -42,6 +38,41 @@
                     }
                 });
             </script>
-            </div>
-      {% endfor %}
+      </div>
+      <div class="smallerChart">
+            <canvas id="Languages"></canvas>
+            <script>
+                var ctx = document.getElementById("Languages");
+                var data = {
+                    labels: [["Python"], ["Matlab"], ["C++"], ["Java"], ["LaTex"],["SPSS"]],
+                    datasets: [{
+                        label: "Topic",
+                        backgroundColor: "rgba(179,181,198,0.2)",
+                        borderColor: "#DE1937",
+                        pointBackgroundColor: "#DE1937",
+                        pointBorderColor: "#fff",
+                        pointHoverBackgroundColor: "#DE1937",
+                        pointHoverBorderColor: "#DE1937",
+                        data: [90, 90, 60, 50, 80,50]
+                        }]
+                };
+                var myRadarChart = new Chart(ctx, {
+                    type: 'radar',
+                    data: data,
+                    options: {
+                        scale: {
+                            responsive: false,
+                            ticks: {
+                                  min: 0, 
+                                  max: 100,
+                                  fontSize: 14
+                            },
+                            lineArc: false,
+                            pointLabels: {fontSize: 20},
+                        },
+                        legend: {display: false},
+                    }
+                });
+            </script>
+      </div>
 </body>
