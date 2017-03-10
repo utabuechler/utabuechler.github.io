@@ -4,7 +4,7 @@ permalink: /career/
 ---
 
 <canvas id="myChart" width="400" height="400"></canvas>
-<script src="{{ site.baseurl }}/Chart.js">
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.1.6/Chart.bundle.min.js">
       var ctx = document.getElementById("myChart");
       var myChart = new Chart(ctx, {
           type: 'bar',
