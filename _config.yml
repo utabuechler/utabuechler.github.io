@@ -26,8 +26,8 @@ markdown:           kramdown
 skills:
   - label: Topic
     id : cs
-    aspects: [Computer,vision], [Machine,learning], [Deep,learning], [Optimization], [Teaching]
-    percentage: 90, 80, 80, 50, 60
+    aspects: [Computer,vision], [Machine,learning], [Deep,learning], [Optimization], [Teaching],[Test]
+    percentage: 90, 80, 80, 50, 60,10
   - label: Languages
     id : cs1
     aspects: ["Python"], ["Matlab"], ["C++"], ["Java"], ["SPSS"], ["LaTex"]
