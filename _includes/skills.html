@@ -5,7 +5,7 @@
       <h1>Skills</h1>
       {% for skills in site.skills %}
             {%assign loopindex = forloop.index | modulo: 2 %}
-            <canvas id="{{ skills.id }}" width="200px" height="200px"></canvas>
+            <canvas id="{{ skills.id }}" width="50px" height="50px"></canvas>
             <script>
                   var ctx = document.getElementById("{{ skills.id }}");
                 var data = {
@@ -29,7 +29,7 @@
                             responsive: true,
                             ticks: {min: 0, max: 100},
                             lineArc: false,
-                            pointLabels: {fontSize: 14},
+                            pointLabels: {fontSize: 30},
                         },
                         legend: {display: false},
                     }
