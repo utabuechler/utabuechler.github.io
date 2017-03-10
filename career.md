@@ -2,4 +2,5 @@
 title:        "Career"
 permalink: /career/
 ---
+{% include skills.html %}
 <a href="{{ site.baseurl }}/skills">Skill</a>
