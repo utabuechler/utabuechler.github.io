@@ -26,12 +26,12 @@ markdown:           kramdown
 skills:
   - label: Topic
     id : cs
-    aspects: Computer vision, Machine learning, Deep learning, Software engineer, Data science
-    percentage: 100, 80, 90, 50, 60
+    aspects: Computer vision, Machine learning, Deep learning, Optimization, Teaching
+    percentage: 90, 70, 80, 50, 60
   - label: Languages
     id : cs1
-    aspects: Python, Matlab, C++, Android, Java, R, PHP
-    percentage: 90, 90, 50, 40, 40, 20, 20
+    aspects: Python, Matlab, C++, Java, SPSS, HTML
+    percentage: 90, 90, 50, 30, 30, 30
     
 nav:
   - name:           "Home"
