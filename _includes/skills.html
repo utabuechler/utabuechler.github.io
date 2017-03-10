@@ -1,0 +1,36 @@
+<head>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.1.6/Chart.min.js"></script>
+</head>
+{% for skills in site.skills %}
+      {%assign loopindex = forloop.index | modulo: 2 %}
+      <canvas id="{{ skills.id }}" width="500px" height="500px"></canvas>
+      <script>
+            var ctx = document.getElementById("{{ skills.id }}");
+          var data = {
+              labels: "{{ skills.aspects }}".split(","),
+              datasets: [{
+                  label: "{{ skills.label }}",
+                  backgroundColor: "rgba(179,181,198,0.2)",
+                  borderColor: "#3385FF",
+                  pointBackgroundColor: "#3385FF",
+                  pointBorderColor: "#fff",
+                  pointHoverBackgroundColor: "#3385FF",
+                  pointHoverBorderColor: "#3385FF",
+                  data: [{{ skills.percentage }}]
+                  }]
+          };
+          var myRadarChart = new Chart(ctx, {
+              type: 'radar',
+              data: data,
+              options: {
+                  scale: {
+                      responsive: true,
+                      ticks: {min: 0, max: 100},
+                      lineArc: false,
+                      pointLabels: {fontSize: 14},
+                  },
+                  legend: {display: false},
+              }
+          });
+      </script>
+{% endfor %}
