@@ -208,6 +208,8 @@ pre code {
     width: 40%;
     height: 50%;
     display: inline;
+    white-space: nowrap;
+    overflow: hidden;
 }
 
 .highlight {
