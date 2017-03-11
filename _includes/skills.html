@@ -3,7 +3,7 @@
 </head>
 <body>
       <h1>Skills</h1>
-      <div class="smallerChart">
+      <div class="smallerChart" style="display:inline;">
             <canvas id="Topic" style="display:inline;"></canvas>
             <script>
                 var ctx = document.getElementById("Topic");
@@ -38,7 +38,9 @@
                     }
                 });
             </script>
-            <canvas id="Languages"></canvas>
+      </div>
+      <div class="smallerChart" style="display:inline;">
+            <canvas id="Languages" style="display:inline;"></canvas>
             <script>
                 var ctx = document.getElementById("Languages");
                 var data = {
