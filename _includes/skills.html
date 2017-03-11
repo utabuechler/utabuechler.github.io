@@ -4,7 +4,7 @@
 <body>
       <h1>Skills</h1>
       <div class="smallerChart">
-            <canvas id="Topic"></canvas>
+            <canvas id="Topic" style="display:inline;"></canvas>
             <script>
                 var ctx = document.getElementById("Topic");
                 var data = {
@@ -38,9 +38,9 @@
                     }
                 });
             </script>
-            <!--<canvas id="Languages"></canvas>-->
+            <canvas id="Languages"></canvas>
             <script>
-                var ctx = document.getElementById("Topic");
+                var ctx = document.getElementById("Languages");
                 var data = {
                     labels: [["Python"], ["Matlab"], ["C++"], ["Java"], ["LaTex"],["SPSS"]],
                     datasets: [{
