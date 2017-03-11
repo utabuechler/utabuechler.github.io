@@ -7,6 +7,12 @@
             <canvas id="Topic" style="display:inline;"></canvas>
             <script>
                 var ctx = document.getElementById("Topic");
+                var width = window.innerWidth
+                if (width>38em) {
+                      var fontS = 20
+                } else {
+                      var fontS = 14
+                }
                 var data = {
                     labels: [["Computer","vision"], ["Machine","learning"], ["Deep","learning"], ["Optimization"], ["Teaching"]],
                     datasets: [{
@@ -33,7 +39,7 @@
                                   fontSize: 14
                             },
                             lineArc: false,
-                            pointLabels: {fontSize: 20},
+                            pointLabels: {fontSize: fontS},
                         },
                         legend: {display: false},
                     }
