@@ -11,7 +11,7 @@ permalink: /publications/
   <a type="button" href="{{ site.baseurl}}/papers/brattoli_buechler_cvpr15.pdf" target="_blank">
     <i class="fa fa-file-o"></i>
   </a>
-  <a type="button" href="{{ site.baseurl }}/bibtex/antic_buechler_miccai15.md" target="_blank">
+  <a type="button" href="{{ site.baseurl }}/bibtex/brattoli_buechler_cvpr17.md" target="_blank">
    <b>BibTex</b>
   </a>
 </div>
