@@ -8,6 +8,12 @@ permalink: /publications/
   <p>B. Brattoli<a href="#fn1" id="ref">*</a>, U. Büchler*, A.-S. Wahl, M.E. Schwab and B. Ommer<br />
   Conference on Computer Vision and Pattern Recognition<br />
   CVPR 2017</p>
+  <a type="button" href="{{ site.baseurl}}/papers/brattoli_buechler_cvpr15.pdf" target="_blank">
+    <i class="fa fa-file-o"></i>
+  </a>
+  <a type="button" href="{{ site.baseurl }}/bibtex/antic_buechler_miccai15.md" target="_blank">
+   <b>BibTex</b>
+  </a>
 </div>
 
 <div class="publication-list">
