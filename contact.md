@@ -7,6 +7,8 @@ permalink: /contact/
 <p>Heidelberg Collaboratory for Image Processing<br />
 Universität Heidelberg<br />
 Berliner Str. 43 D-69120 Heidelberg, Germany<br />
+Room: B03.B115
+Telephone: 06221/5414853
 E-mail: uta.buechler(at)iwr.uni-heidelberg.de</p>
 </div>
 
