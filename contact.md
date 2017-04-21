@@ -5,7 +5,7 @@ permalink: /contact/
 <div class="post-list">
 <h5 style="margin-bottom: 0px">Office</h5>
 <p>Heidelberg Collaboratory for Image Processing<br />
-Universität Heidelberg<br />
+Heidelberg University<br />
 Berliner Str. 43 D-69120 Heidelberg, Germany<br />
 Room: B03.B115<br />
 Telephone: 06221/5414853<br />
