@@ -8,7 +8,7 @@ permalink: /contact/
 Heidelberg University<br />
 Berliner Str. 43 D-69120 Heidelberg, Germany<br />
 Room: B03.B115<br />
-Telephone: 06221/5414853<br />
+Phone: 06221/5414853<br />
 E-mail: uta.buechler(at)iwr.uni-heidelberg.de</p>
 </div>
 
