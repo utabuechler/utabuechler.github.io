@@ -2,6 +2,18 @@
 title: Publications
 permalink: /publications/
 ---
+<div class="publication-list">
+  <h4>Optogenetically stimulating intact rat corticospinaltract post-stroke restores motor control throughregionalized functional circuit formation</h4>
+  <p>A.-S. Wahl<a href="#fn1" id="ref">*</a>, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B.V. Ineichen, F. Helmchen, M.E. Schwab and B. Ommer<br />
+  Nature Communications Journal<br />
+  </p>
+  <a type="button" href="{{ site.baseurl}}/papers/Wahl_et_al-2017-Nature_Communications.pdf" target="_blank">
+    <i class="fa fa-file-o"></i>
+  </a>
+  <!--<a type="button" href="{{ site.baseurl }}/bibtex/" target="_blank">
+   <b>BibTex</b>
+  </a>-->
+</div>
 
 <div class="publication-list">
   <h4>LSTM Self-Supervision for Detailed Behavior Analysis</h4>
