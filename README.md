@@ -1,24 +1,24 @@
-# Ink
+<!--# Ink
 
-Ink is a minmal two-column theme for [Jekyll](http://jekyllrb.com) 
+<!--Ink is a minmal two-column theme for [Jekyll](http://jekyllrb.com)
 
-![Screenshot](https://s32.postimg.org/gdtp6pw1x/ink.png)
+<!--![Screenshot](https://s32.postimg.org/gdtp6pw1x/ink.png)
 
-# Installation 
+<!--# Installation
 
-##### Setup on your local machine
+<!--##### Setup on your local machine
  * Clone or download the repository
  * You should have [ruby](https://www.ruby-lang.org/en/) installed in your system
  * Install bundler which helps in specifying and installing dependencies of any Ruby project ```gem install bundler```
  * Go to the root of the repo and run this - ```bundle install```
  * Then - ```bundle exec jekyll serve```
 
-##### Make it your own
+<!--##### Make it your own
  * Fork the repository
  * Follow the configuration step
  * Host your site/blog with **Ink**
 
-# Configuration 
+<!--# Configuration 
  * Change the following in ```_config.yml```
  ```
     name:               "Ink"
@@ -40,9 +40,9 @@ Ink is a minmal two-column theme for [Jekyll](http://jekyllrb.com)
  * Add your custom url in ```url``` option. Example : http://thinker3197.github.io/blog. Consult the ```gh-pages``` branch to see the basic setup for a blog.
  * Add your custom background by adding a custom background link in the ```background``` option in ```_config.yml```.
  
-# Licensce
+<!--# Licensce
 
-Open sourced under [MIT LICENSE](https://github.com/thinker3197/ink/blob/master/LICENSE) 
+<!--Open sourced under [MIT LICENSE](https://github.com/thinker3197/ink/blob/master/LICENSE)-->
 
 
 
