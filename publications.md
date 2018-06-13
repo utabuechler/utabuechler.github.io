@@ -7,7 +7,7 @@ permalink: /publications/
   <p> A.-S. Wahl, E. Erlebach, B. Brattoli, U. Büchler, J. Kaiser, B.V. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab<br />
 Journal of Cerebral Blood Flow & Metabolism<br />
   </p>
-  <a type="button" href="{{ site.baseurl}}/papers/Wahl_et_al-2017-Nature_Communications.pdf" target="_blank">
+  <a type="button" href="{{ site.baseurl}}/papers/Wahl_et_al-2018-JCBFM.pdf" target="_blank">
     <i class="fa fa-file-o"></i>
   </a>
   <!--<a type="button" href="{{ site.baseurl }}/bibtex/" target="_blank">
