@@ -16,7 +16,7 @@ Journal of Cerebral Blood Flow & Metabolism<br />
 </div>
 
 <div class="publication-list">
-  <h4>Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation</h4>
+  <h4><a href="https://www.nature.com/articles/s41467-017-01090-6"><em>Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation</em></a></h4>
  <p>A.-S. Wahl<a href="#fn1" id="ref">*</a>, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B.V. Ineichen, F. Helmchen, M.E. Schwab and B. Ommer<br />
   Nature Communications Journal<br />
   </p>
