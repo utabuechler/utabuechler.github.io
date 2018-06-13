@@ -4,7 +4,7 @@ permalink: /publications/
 ---
 <div class="publication-list">
   <h4><a href="http://journals.sagepub.com/doi/full/10.1177/0271678X18777661"><em>Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats</em></a></h4>
-  <p> Anna-Sophia Wahl, Eva Erlebach, Biagio Brattoli, Uta Büchler, Julia Kaiser, Benjamin V Ineichen, Alice C Mosberger, Shirin Schneeberger, Stefan Imobersteg, Martin Wieckhorst, Martina Stirn, Aileen Schroeter, Bjoern Ommer, Martin E Schwab<br />
+  <p> A.-S. Wahl, E. Erlebach, B. Brattoli, U. Büchler, J. Kaiser, B.V. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab<br />
 Journal of Cerebral Blood Flow & Metabolism<br />
   </p>
   <a type="button" href="{{ site.baseurl}}/papers/Wahl_et_al-2017-Nature_Communications.pdf" target="_blank">
