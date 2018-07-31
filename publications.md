@@ -6,7 +6,7 @@ permalink: /publications/
   <h4>Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning</h4>
   <p>U. Büchler<a href="#fn1" id="ref">*</a>, B. Brattoli*</a> and B. Ommer<br />
   European Conference on Computer Vision<br />
-  CVPR 2017</p>
+  ECCV 2018</p>
   <a type="button" href="{{ site.baseurl}}/papers/buechler_brattoli_eccv18.pdf" target="_blank">
     <i class="fa fa-file-o"></i>
   </a>
