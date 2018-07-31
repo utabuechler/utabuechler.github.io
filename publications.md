@@ -4,13 +4,13 @@ permalink: /publications/
 ---
 <div class="publication-list">
   <h4>Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning</h4>
-  <p>U. Büchler<a href="#fn1" id="ref">, B. Brattoli*</a>, *, and B. Ommer<br />
+  <p>U. Büchler<a href="#fn1" id="ref">, B. Brattoli*</a>, and B. Ommer<br />
   European Conference on Computer Vision<br />
   CVPR 2017</p>
   <a type="button" href="{{ site.baseurl}}/papers/buechler_brattoli_eccv18.pdf" target="_blank">
     <i class="fa fa-file-o"></i>
   </a>
-  <a type="button" href="{{ site.baseurl }}/bibtex/brattoli_buechler_cvpr17.md" target="_blank">
+  <a type="button" href="{{ site.baseurl }}/bibtex/buechler_brattoli_eccv18.md" target="_blank">
    <b>BibTex</b>
   </a>
 </div>
