@@ -3,6 +3,19 @@ title: Publications
 permalink: /publications/
 ---
 <div class="publication-list">
+  <h4>Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning</h4>
+  <p>U. Büchler<a href="#fn1" id="ref">B. Brattoli*</a>, *, and B. Ommer<br />
+  European Conference on Computer Vision<br />
+  CVPR 2017</p>
+  <a type="button" href="{{ site.baseurl}}/papers/buechler_brattoli_eccv18.pdf" target="_blank">
+    <i class="fa fa-file-o"></i>
+  </a>
+  <a type="button" href="{{ site.baseurl }}/bibtex/brattoli_buechler_cvpr17.md" target="_blank">
+   <b>BibTex</b>
+  </a>
+</div>
+
+<div class="publication-list">
   <h4><a href="http://journals.sagepub.com/doi/full/10.1177/0271678X18777661">Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats</a></h4>
   <p> A.-S. Wahl, E. Erlebach, B. Brattoli, U. Büchler, J. Kaiser, B.V. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab<br />
 Journal of Cerebral Blood Flow & Metabolism<br />
