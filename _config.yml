@@ -13,8 +13,8 @@ github:             "utabuechler"
 
 disqus_shortname:   "utabuechler"
 
-background:         "papers.co-vd21-black-sea-texture-40-wallpaper.jpg"
-#"http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+#"papers.co-vd21-black-sea-texture-40-wallpaper.jpg"
 
 paginate:           5
 paginate_path:      "/page:num/"
