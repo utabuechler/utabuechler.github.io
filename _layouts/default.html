@@ -10,7 +10,11 @@
         <h3>{{ site.name }}</h3>
         <p>{{ site.description }}</p>
         <ul class="social">
-            {% if site.github %}
+            {% if site.email %}
+            <a type="button" href="mailto:{{ site.email }}">
+                <i class="fas fa-envelope"></i>
+            </a>
+            {% endif %} {% if site.github %}
             <a type="button" href="http://github.com/{{ site.github }}">
                 <i class="fa fa-github"></i>
             </a>
