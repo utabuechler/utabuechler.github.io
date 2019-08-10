@@ -3,6 +3,19 @@ title: Publications
 permalink: /publications/
 ---
 <div class="publication-list">
+  <h4>Divide and Conquer the Embedding Space for Metric Learning</h4>
+  <p>A. Sanakoyeu, V. Tschernezki, U. Büchler and B. Ommer<br />
+  Conference on Computer Vision and Pattern Recognition<br />
+  CVPR 2019</p>
+  <a type="button" href="{{ site.baseurl}}/papers/metric_learning_cvpr19.pdf" target="_blank">
+    <i class="fa fa-file-o"></i>
+  </a>
+  <a type="button" href="{{ site.baseurl }}/bibtex/metric_learning_cvpr19.md" target="_blank">
+   <b>BibTex</b>
+  </a>
+</div>
+
+<div class="publication-list">
   <h4>Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning</h4>
   <p>U. Büchler<a href="#fn1" id="ref">*</a>, B. Brattoli* and B. Ommer<br />
   European Conference on Computer Vision<br />
