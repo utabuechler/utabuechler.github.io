@@ -2,6 +2,19 @@
 title: Publications
 permalink: /publications/
 ---
+<!--- <div class="publication-list">
+  <h4>Unsupervised Magnification of Posture Deviations Across Subjects</h4>
+  <p>U. Büchler, M. Dorkenwald and B. Ommer<br />
+  Conference on Computer Vision and Pattern Recognition<br />
+  CVPR 2020</p>
+  <a type="button" href="{{ site.baseurl}}/papers/magnification_cvpr20.pdf" target="_blank">
+    <i class="fa fa-file-o"></i>
+  </a>
+  <a type="button" href="{{ site.baseurl }}/bibtex/magnification_cvpr20.md" target="_blank">
+   <b>BibTex</b>
+  </a>
+</div>-->
+
 <div class="publication-list">
   <h4>Divide and Conquer the Embedding Space for Metric Learning</h4>
   <p>A. Sanakoyeu, V. Tschernezki, U. Büchler and B. Ommer<br />
