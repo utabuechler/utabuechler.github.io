@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 ---
-<!--- <div class="publication-list">
+<div class="publication-list">
   <h4>Unsupervised Magnification of Posture Deviations Across Subjects</h4>
   <p>U. Büchler, M. Dorkenwald and B. Ommer<br />
   Conference on Computer Vision and Pattern Recognition<br />
@@ -13,7 +13,7 @@ permalink: /publications/
   <a type="button" href="{{ site.baseurl }}/bibtex/magnification_cvpr20.md" target="_blank">
    <b>BibTex</b>
   </a>
-</div>-->
+</div>
 
 <div class="publication-list">
   <h4>Divide and Conquer the Embedding Space for Metric Learning</h4>
@@ -47,10 +47,10 @@ permalink: /publications/
 Journal of Cerebral Blood Flow & Metabolism<br />
     Published 2018 <br />
   </p>
-  <a type="button" href="{{ site.baseurl}}/papers/Wahl_et_al-2018-JCBFM.pdf" target="_blank">
+  <!--<a type="button" href="{{ site.baseurl}}/papers/Wahl_et_al-2018-JCBFM.pdf" target="_blank">
     <i class="fa fa-file-o"></i>
   </a>
-  <!--<a type="button" href="{{ site.baseurl }}/bibtex/" target="_blank">
+  <a type="button" href="{{ site.baseurl }}/bibtex/" target="_blank">
    <b>BibTex</b>
   </a>-->
 </div>
@@ -61,10 +61,10 @@ Journal of Cerebral Blood Flow & Metabolism<br />
   Nature Communications Journal<br />
    Published 2017 <br />
   </p>
-  <a type="button" href="{{ site.baseurl}}/papers/Wahl_et_al-2017-Nature_Communications.pdf" target="_blank">
+  <!--<a type="button" href="{{ site.baseurl}}/papers/Wahl_et_al-2017-Nature_Communications.pdf" target="_blank">
     <i class="fa fa-file-o"></i>
   </a>
-  <!--<a type="button" href="{{ site.baseurl }}/bibtex/" target="_blank">
+  <a type="button" href="{{ site.baseurl }}/bibtex/" target="_blank">
    <b>BibTex</b>
   </a>-->
 </div>
