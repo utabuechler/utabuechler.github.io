@@ -55,29 +55,31 @@ permalink: /publications/
 </div>
 
 <div class="publication-list">
-  <h4><a href="http://journals.sagepub.com/doi/full/10.1177/0271678X18777661">Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats</a></h4>
+  <!--<h4><a href="http://journals.sagepub.com/doi/full/10.1177/0271678X18777661">-->
+<h4>Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats</h4>
   <p> A.-S. Wahl, E. Erlebach, B. Brattoli, U. Büchler, J. Kaiser, B.V. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer and M.E. Schwab<br />
 Journal of Cerebral Blood Flow & Metabolism<br />
     Published 2018 <br />
   </p>
-  <!--<a type="button" href="{{ site.baseurl}}/papers/Wahl_et_al-2018-JCBFM.pdf" target="_blank">
+  <a type="button" href="http://journals.sagepub.com/doi/full/10.1177/0271678X18777661" target="_blank">
     <i class="fa fa-file-o"></i>
   </a>
-  <a type="button" href="{{ site.baseurl }}/bibtex/" target="_blank">
+  <!--<a type="button" href="{{ site.baseurl }}/bibtex/" target="_blank">
    <b>BibTex</b>
   </a>-->
 </div>
 
 <div class="publication-list">
-  <h4><a href="https://www.nature.com/articles/s41467-017-01090-6">Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation</a></h4>
+  <!--<h4><a href="https://www.nature.com/articles/s41467-017-01090-6">-->
+  <h4>Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation</h4>
  <p>A.-S. Wahl<a href="#fn1" id="ref">*</a>, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B.V. Ineichen, F. Helmchen, M.E. Schwab and B. Ommer<br />
   Nature Communications Journal<br />
    Published 2017 <br />
   </p>
-  <!--<a type="button" href="{{ site.baseurl}}/papers/Wahl_et_al-2017-Nature_Communications.pdf" target="_blank">
+  <a type="button" href="https://www.nature.com/articles/s41467-017-01090-6" target="_blank">
     <i class="fa fa-file-o"></i>
   </a>
-  <a type="button" href="{{ site.baseurl }}/bibtex/" target="_blank">
+  <!--<a type="button" href="{{ site.baseurl }}/bibtex/" target="_blank">
    <b>BibTex</b>
   </a>-->
 </div>
@@ -108,11 +110,11 @@ Journal of Cerebral Blood Flow & Metabolism<br />
   </a>
 </div>
 
-<div class="publication-list">
+<!--<div class="publication-list">
   <h4>Evaluating Stroke Recovery by Structural Decomposition of Motor Kinematics</h4>
   <p>B. Antic*, U. Büchler*, A.-S. Wahl, M. E. Schwab and B. Ommer<br />
   Bernstein Conference on Computational Neuroscience<br />
   BCCN 2015, Oral presentation</p>
-</div>
+</div>-->
 <hr>
 <sup id="fn1">*Indicates equal contribution</sup>
