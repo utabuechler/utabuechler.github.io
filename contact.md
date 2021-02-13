@@ -4,12 +4,8 @@ permalink: /contact/
 ---
 <div class="post-list">
 <h5 style="margin-bottom: 0px">Office</h5>
-<p>Heidelberg Collaboratory for Image Processing (HCI)<br />
-Heidelberg University<br />
-<!--Im Neuenheimer Feld 205, D-69120 Heidelberg, Germany<br />
-#Room: B04.324<br />
-#Phone: 06221/5414808<br />-->
-E-mail: uta.buechler(at)iwr.uni-heidelberg.de</p>
+<p>Amazon Web Services<br />
+E-mail: utbuech@amazon.de</p>
 </div>
 
 <div class="post-list">
