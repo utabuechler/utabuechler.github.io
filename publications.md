@@ -3,6 +3,19 @@ title: Publications
 permalink: /publications/
 ---
 <div class="publication-list">
+  <h4>Visual Representation Learning with Minimal Supervision</h4>
+  <p>U. Büchler<br />
+  Ph.D. Thesis<br />
+  2020</p>
+  <a type="button" href="https://archiv.ub.uni-heidelberg.de/volltextserver/29205/1/Buechler_VisualRepresentationLearningWithMinimalSupervision.pdf" target="_blank">
+    <i class="fa fa-file-o"></i>
+  </a>
+  <!--<a type="button" href="{{ site.baseurl }}/bibtex/magnification_cvpr20.md" target="_blank">
+   <b>BibTex</b>
+  </a>-->
+</div>
+
+<div class="publication-list">
   <h4>Unsupervised Magnification of Posture Deviations Across Subjects</h4>
   <p>U. Büchler, M. Dorkenwald and B. Ommer<br />
   Conference on Computer Vision and Pattern Recognition<br />
