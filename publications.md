@@ -4,7 +4,7 @@ permalink: /publications/
 ---
 <div class="publication-list">
   <h4>Unsupervised behaviour analysis and magnification (uBAM) using deep learning</h4>
-  <p>U. Büchler, B. Brattoli, M. Dorkenwald, P. Reiser, L. Filli, F. Helmchen, A.-S. Wahl and B. Ommer<br />
+  <p>U. Büchler<a href="#fn1" id="ref">*</a>, B. Brattoli*, M. Dorkenwald, P. Reiser, L. Filli, F. Helmchen, A.-S. Wahl and B. Ommer<br />
   Nature Machine Intelligence</p>
   <a type="button" href="https://rdcu.be/ch6pL" target="_blank">
     <i class="fa fa-file-o"></i>
@@ -30,7 +30,7 @@ permalink: /publications/
 
 <div class="publication-list">
   <h4>Unsupervised Magnification of Posture Deviations Across Subjects</h4>
-  <p>U. Büchler, M. Dorkenwald and B. Ommer<br />
+  <p>U. Büchler<a href="#fn1" id="ref">*</a>, M. Dorkenwald* and B. Ommer<br />
   Conference on Computer Vision and Pattern Recognition<br />
   CVPR 2020</p>
   <a type="button" href="{{ site.baseurl}}/papers/magnification_cvpr20.pdf" target="_blank">
