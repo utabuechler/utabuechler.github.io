@@ -4,7 +4,7 @@ permalink: /publications/
 ---
 <div class="publication-list">
   <h4>Unsupervised behaviour analysis and magnification (uBAM) using deep learning</h4>
-  <p>B. Brattoli, U. Büchler, M. Dorkenwald, P. Reiser, L. Filli, F. Helmchen, A.-S. Wahl and B. Ommer<br />
+  <p>U. Büchler, B. Brattoli, M. Dorkenwald, P. Reiser, L. Filli, F. Helmchen, A.-S. Wahl and B. Ommer<br />
   Nature Machine Intelligence</p>
   <a type="button" href="https://rdcu.be/ch6pL" target="_blank">
     <i class="fa fa-file-o"></i>
