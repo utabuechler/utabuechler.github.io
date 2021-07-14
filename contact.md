@@ -10,7 +10,7 @@ E-mail: utbuech@amazon.de</p>
 
 <div class="post-list">
 <h5 style="margin-bottom: 0px">Private</h5>
-<p>E-mail: utabuechler(at)web.de</p>
+<p>E-mail: utabuechler@web.de</p>
 </div>
 
 
