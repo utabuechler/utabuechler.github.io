@@ -3,6 +3,19 @@ title: Publications
 permalink: /publications/
 ---
 <div class="publication-list">
+  <h4>Unsupervised behaviour analysis and magnification (uBAM) using deep learning</h4>
+  <p>B. Brattoli, U. Büchler, M. Dorkenwald, P. Reiser, L. Filli, F. Helmchen, A.-S. Wahl and B. Ommer<br />
+  Nature Machine Intelligence</p>
+  <a type="button" href="https://rdcu.be/ch6pL" target="_blank">
+    <i class="fa fa-file-o"></i>
+  </a>
+  <!--<a type="button" href="{{ site.baseurl }}/bibtex/magnification_cvpr20.md" target="_blank">
+   <b>BibTex</b>
+  </a>-->
+</div>
+
+
+<div class="publication-list">
   <h4>Visual Representation Learning with Minimal Supervision</h4>
   <p>U. Büchler<br />
   Ph.D. Thesis<br />
