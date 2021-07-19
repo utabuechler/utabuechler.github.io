@@ -33,7 +33,7 @@ permalink: /publications/
   <p>U. Büchler<a href="#fn1" id="ref">*</a>, M. Dorkenwald* and B. Ommer<br />
   Conference on Computer Vision and Pattern Recognition<br />
   CVPR 2020</p>
-  <a type="button" href="https://openaccess.thecvf.com/content_CVPR_2020/html/Dorkenwald_Unsupervised_Magnification_of_Posture_Deviations_Across_Subjects_CVPR_2020_paper.html" target="_blank">
+  <a type="button" href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Dorkenwald_Unsupervised_Magnification_of_Posture_Deviations_Across_Subjects_CVPR_2020_paper.pdf" target="_blank">
     <i class="fa fa-file-o"></i>
   </a>
   <!--<a type="button" href="{{ site.baseurl }}/bibtex/magnification_cvpr20.md" target="_blank">
