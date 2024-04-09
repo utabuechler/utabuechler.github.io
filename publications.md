@@ -3,6 +3,19 @@ title: Publications
 permalink: /publications/
 ---
 <div class="publication-list">
+  <h4>Large scale real-world multi-person tracking</h4>
+  <p>B. Shuai, A. Bergamo, U. Büchler, A. Berneshawi, A. Boden, J. Tighe<br />
+  European Conference on Computer Vision</p>
+<!--   <a type="button" href="https://rdcu.be/ch6pL" target="_blank">
+    <i class="fa fa-file-o"></i>
+  </a>
+  <!--<a type="button" href="{{ site.baseurl }}/bibtex/magnification_cvpr20.md" target="_blank">
+   <b>BibTex</b>
+  </a>--> -->
+</div>
+
+
+<div class="publication-list">
   <h4>Unsupervised behaviour analysis and magnification (uBAM) using deep learning</h4>
   <p>U. Büchler<a href="#fn1" id="ref">*</a>, B. Brattoli*, M. Dorkenwald, P. Reiser, L. Filli, F. Helmchen, A.-S. Wahl and B. Ommer<br />
   Nature Machine Intelligence</p>
