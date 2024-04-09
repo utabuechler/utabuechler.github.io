@@ -4,7 +4,6 @@ permalink: /contact/
 ---
 <div class="post-list">
 <h5 style="margin-bottom: 0px">Office</h5>
-<p>Amazon<br />
 E-mail: utbuech@amazon.de</p>
 </div>
 
