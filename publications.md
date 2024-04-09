@@ -11,7 +11,7 @@ permalink: /publications/
   </a>
   <!--<a type="button" href="{{ site.baseurl }}/bibtex/magnification_cvpr20.md" target="_blank">
    <b>BibTex</b>
-  </a>--> -->
+  </a> -->
 </div>
 
 
