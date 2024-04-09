@@ -5,7 +5,7 @@ permalink: /publications/
 <div class="publication-list">
   <h4>Large scale real-world multi-person tracking</h4>
   <p>B. Shuai, A. Bergamo, U. Büchler, A. Berneshawi, A. Boden, J. Tighe<br />
-  European Conference on Computer Vision</p>
+  ECCV 2022</p>
 <!--   <a type="button" href="https://rdcu.be/ch6pL" target="_blank">
     <i class="fa fa-file-o"></i>
   </a>
